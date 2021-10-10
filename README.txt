@@ -1,4 +1,4 @@
-# Simple Web Scraping
+#Simple Web Scraping
 
 A simple NodeJS webscraper that works on websites that don't require user authentication.
 
